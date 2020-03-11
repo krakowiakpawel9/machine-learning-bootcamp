@@ -54,8 +54,6 @@ Repozytorium */unsupervised* jest częścią kursu **Machine Learning Bootcamp w
 * [Big Data: Analiza danych przy użyciu SQL oraz BigQuery - 2020](https://www.udemy.com/course/big-data-bigquery/?referralCode=10C0A466D6710285AEC6)
 --- 
 
-#### Opis kursów
-
 ### Kurs 1: [Machine Learning Bootcamp w języku Python cz.I - od A do Z (11h)](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-i-od-a-do-z)
 Repozytorium jest częścią kursu [Machine Learning Bootcamp w języku Python cz.I - od A do Z (11h)](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-i-od-a-do-z) dostępnym na platformie [e-smartdata.org](https://e-smartdata.org/)
 
