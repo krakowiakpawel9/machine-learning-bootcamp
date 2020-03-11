@@ -1,13 +1,13 @@
 ## [e-smartdata.org](https://e-smartdata.org/) - kursy online :computer:
 ## Repozytorium kursów z serii Machine Learning Bootcamp:
 ### Część 1: Machine Learning Bootcamp w języku Python cz.I - od A do Z (11h)
-Repozytorium jest częścią kursu **Machine Learning Bootcamp w języku Python cz.I - od A do Z (11h)** dostępnym na platformie:
+Repozytorium */supervised* jest częścią kursu **Machine Learning Bootcamp w języku Python cz.I - od A do Z (11h)** dostępnym na platformie:
 * [e-smartdata.org](https://e-smartdata.org/):
   * :point_right: [Machine Learning Bootcamp w języku Python cz.I - od A do Z (11h)](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-i-od-a-do-z)
 * Udemy.com:
   * :point_right: [Machine Learning Bootcamp w języku Python cz.I - od A do Z (11h)](https://www.udemy.com/course/machine-learning-bootcamp-w-jezyku-python/?referralCode=92994CE6227390CFA9D7)
 ### Część 2: Machine Learning Bootcamp w języku Python cz.II - od A do Z (5h)
-Repozytorium jest częścią kursu **Machine Learning Bootcamp w języku Python cz.II - od A do Z (5h)** dostępnym na platformie:
+Repozytorium */unsupervised* jest częścią kursu **Machine Learning Bootcamp w języku Python cz.II - od A do Z (5h)** dostępnym na platformie:
 * [e-smartdata.org](https://e-smartdata.org/):
   * :point_right: [Machine Learning Bootcamp w języku Python cz.II - od A do Z (5h)](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-ii-od-a-do-z)
 * Udemy.com:
